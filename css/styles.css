@@ -5375,7 +5375,7 @@ a.close.disabled {
 .modal {
   position: fixed;
   top: 0;
-  left: 0;
+  left: 25%;
   z-index: 1050;
   display: none;
   width: 100%;
@@ -9959,7 +9959,7 @@ p {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 2rem 0;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -10044,7 +10044,7 @@ img::-moz-selection {
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   color: #fff;
   letter-spacing: 0.0625em;
 }
@@ -10177,7 +10177,7 @@ header.masthead .masthead-heading {
 
 .portfolio-modal .modal-dialog {
   margin: 1rem;
-  max-width: 100vw;
+  max-width: 50vw;
 }
 .portfolio-modal .modal-content {
   padding-top: 6rem;
