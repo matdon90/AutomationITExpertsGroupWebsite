@@ -79,13 +79,13 @@ Project Link: [https://github.com/matdon90/AutomationITExpertsGroupWebsite](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/matdon90/LpgConsumptionCostCalculator.svg?style=flat-square
-[contributors-url]: https://github.com/matdon90/LpgConsumptionCostCalculator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/matdon90/LpgConsumptionCostCalculator.svg?style=flat-square
-[forks-url]: https://github.com/matdon90/LpgConsumptionCostCalculator/network/members
-[stars-shield]: https://img.shields.io/github/stars/matdon90/LpgConsumptionCostCalculator.svg?style=flat-square
-[stars-url]: https://github.com/matdon90/LpgConsumptionCostCalculator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/matdon90/LpgConsumptionCostCalculator.svg?style=flat-square
-[issues-url]: https://github.com/matdon90/LpgConsumptionCostCalculator/issues
+[contributors-shield]: https://img.shields.io/github/contributors/matdon90/AutomationITExpertsGroupWebsite.svg?style=flat-square
+[contributors-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/matdon90/AutomationITExpertsGroupWebsite.svg?style=flat-square
+[forks-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/network/members
+[stars-shield]: https://img.shields.io/github/stars/matdon90/AutomationITExpertsGroupWebsiter.svg?style=flat-square
+[stars-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/stargazers
+[issues-shield]: https://img.shields.io/github/issues/matdon90/AutomationITExpertsGroupWebsite.svg?style=flat-square
+[issues-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mateusz-donhefner/
