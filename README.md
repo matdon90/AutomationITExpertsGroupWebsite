@@ -83,7 +83,7 @@ Project Link: [https://github.com/matdon90/AutomationITExpertsGroupWebsite](http
 [contributors-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/matdon90/AutomationITExpertsGroupWebsite.svg?style=flat-square
 [forks-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/network/members
-[stars-shield]: https://img.shields.io/github/stars/matdon90/AutomationITExpertsGroupWebsiter.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/matdon90/AutomationITExpertsGroupWebsite.svg?style=flat-square
 [stars-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/stargazers
 [issues-shield]: https://img.shields.io/github/issues/matdon90/AutomationITExpertsGroupWebsite.svg?style=flat-square
 [issues-url]: https://github.com/matdon90/AutomationITExpertsGroupWebsite/issues
