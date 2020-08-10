@@ -375,6 +375,33 @@ h2, .h2 {
   font-size: 2rem;
 }
 
+@media (max-width: 575px) {
+  #appTitle {
+    font-size: 5vw;
+  }
+}
+
+@media (min-width: 576px) {
+  #appTitle {
+    font-size: 1.6rem;
+  }
+}
+@media (min-width: 768px) {
+  #appTitle {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  #appTitle {
+    font-size: 1.34rem;
+  }
+}
+@media (min-width: 1200px) {
+  #appTitle {
+    font-size: 2rem;
+  }
+}
+
 h3, .h3 {
   font-size: 1.75rem;
 }
@@ -5379,6 +5406,7 @@ a.close.disabled {
   z-index: 1050;
   display: none;
   width: 100%;
+  min-width: 900px;
   height: 100%;
   overflow: hidden;
   outline: 0;
