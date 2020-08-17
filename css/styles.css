@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Agency v6.0.0 (https://startbootstrap.com/template-overviews/agency)
 * Copyright 2013-2020 Start Bootstrap
@@ -393,12 +393,12 @@ h2, .h2 {
 }
 @media (min-width: 992px) {
   #appTitle {
-    font-size: 1.34rem;
+    font-size: 2rem;
   }
 }
 @media (min-width: 1200px) {
   #appTitle {
-    font-size: 2rem;
+    font-size: 1.64rem;
   }
 }
 
